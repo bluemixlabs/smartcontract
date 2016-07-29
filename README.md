@@ -1,0 +1,2 @@
+# smartcontract
+Simple smart contract
